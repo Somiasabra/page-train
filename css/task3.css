@@ -1,0 +1,46 @@
+body{
+    background-image: url(../images/watercolor-stains-abstract-background_23-2149107181.avif);
+    background-size: cover;
+}
+.parent { 
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 40px 0 0 0;
+    h1 {position: relative;}
+}
+.p-one , .p-two , p {
+    color: rgb(128, 128, 128);
+    opacity: 0.95;
+}
+
+.f-child {
+    background-color: rgb(36, 182, 36);
+    height: 5px;
+    width: 70px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,-200%);
+}
+.child-1 {
+    width: 30%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+}
+.parent-2 {
+    margin: 80px 0 0 90px;
+}
+.new {clear: both;}
+
+.right {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin: 50px 0 0 0;
+}
+.drop {
+    background-color: aliceblue;
+}
+
+
+
